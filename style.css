@@ -1,0 +1,28 @@
+.title {
+  text-align: center;
+  margin: 150px 0 30px 0;
+  font-size: 30px;
+}
+
+.form-control {
+  max-width: 400px;
+  margin: 20px auto;
+}
+
+p {
+  text-align: center;
+  font-size: 20px;
+}
+
+.btn-form {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.btn {
+  margin: 0 5px;
+}
+
+h2 {
+  text-align: center;
+}
